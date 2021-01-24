@@ -8,7 +8,7 @@ today = datetime.date.today().strftime('%Y-%m-%d')
 # by your project name. In this way you could organize your screenshots in the folders
 # categorised by your work.
 make_video(
-    folder='today',
+    folder=today,
     fps=25,
     audio_loc='audio',
 )
