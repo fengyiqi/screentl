@@ -3,7 +3,10 @@
 #### 介绍
 定时截屏，并生成视频，回顾一天的工作。
 
-链接 https://gitee.com/alvinfeng/screentl
+下载链接：
+
+- https://gitee.com/alvinfeng/screentl 
+- https://github.com/fengyiqi/screentl
 
 
 #### 安装教程
