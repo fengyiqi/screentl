@@ -11,9 +11,9 @@
 
 #### 安装教程
 
-1. 安装依赖库pyautogui, pymovie:
+1. 安装依赖库pyautogui, moviepy:
 
-   > pip install pyautogui pymovie
+   > pip install pyautogui moviepy
 
 2. 下载本目录下所有文件
 
